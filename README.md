@@ -4,7 +4,7 @@ This repository contains a non-official LaTeX Beamer template for academic prese
 
 The template was made by Heitor Gama from a previous presentation style. It is not official material from USP, CentraleSupelec, Crossing, CNRS, or any course team. It does not guarantee compliance with any conference, school, instructor, jury, or event formatting requirement. Use it at your own risk and always check the rules for the specific presentation you are preparing.
 
-✅ [Overleaf version available!](https://www.overleaf.com/read/mvtmgdyqfthw#5bc411)
+✅ [Overleaf version available!](https://www.overleaf.com/read/mznfqyswnwtg#38a56f)  
 ✅ [PLMlatex version available!](https://plmlatex.math.cnrs.fr/read/xkxympztjqzy)
 
 If this template saves you time, please leave a ⭐ on the repository.
