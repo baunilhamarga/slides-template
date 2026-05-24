@@ -1,3 +1,7 @@
+# Temp files and build directories:
+tmp/
+output/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
